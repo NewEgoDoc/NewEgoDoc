@@ -43,7 +43,6 @@
 ### Contact
 
 ![Email](https://img.shields.io/badge/juhan211@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white)
-<!-- 이력서/포트폴리오 링크는 준비되는 대로 이 위치에 추가 -->
 
 ---
 
