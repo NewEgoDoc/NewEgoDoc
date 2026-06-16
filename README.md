@@ -1,48 +1,49 @@
-<h1 align="center">안녕하세요, 백엔드 엔지니어입니다</h1>
+<h1 align="center">Backend Engineer</h1>
 
 <p align="center">
-  복잡한 실시간 시스템을 안정적으로 설계하고 운영하는 것을 좋아합니다.
+  Java/Kotlin + Spring Boot 기반 백엔드 개발자입니다.<br/>
+  데이터 정합성, 성능 최적화, 운영 안정화에 강점을 가지고 있으며,<br/>
+  대용량 실시간 시스템 경험을 바탕으로 결제·송금·정산 도메인으로 확장 중입니다.
 </p>
 
 ---
 
-### About Me
+### Core Stack
 
-- 산업 현장 이상 감지 · 실시간 모니터링 시스템 백엔드를 개발합니다.
-- Java / Spring Boot 기반의 안정적인 서버 아키텍처 설계와 운영을 중심으로 합니다.
-- IoT/센서 수집, 미디어 스트리밍(RTSP→HLS), 메시지 큐 기반 비동기 처리에 관심이 많습니다.
-- 이벤트 기반 아키텍처와 분산 시스템 안정성을 고민합니다.
-- 항상 "왜 이렇게 동작하는가"를 먼저 이해하고 코드를 작성합니다.
-
----
-
-### Tech Stack
-
-#### Main
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
-#### Also Use
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-
-#### Databases & Messaging
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
-
-#### Infra & Tools
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge&logo=google&logoColor=white)
-![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+<sub>Also use: TypeScript · JavaScript · NestJS · Node.js · MongoDB · InfluxDB · RabbitMQ · MQTT · gRPC</sub>
+
+---
+
+### Currently
+
+- 송금/결제 게이트웨이 백엔드(OpenRemit)를 설계·구현하며 트랜잭션 정합성과 실패 재처리 구조를 다듬고 있습니다.
+- 주문·결제·정산으로 이어지는 도메인을 분리된 서비스(결제·지갑·원장)로 구성하는 실험을 진행 중입니다.
+- 산업 현장 실시간 모니터링 시스템(이벤트 기반 NestJS 모노레포) 백엔드를 운영하며 대용량 비동기 처리를 다룹니다.
+
+---
+
+### Featured Project
+
+**[OpenRemit](https://github.com/NewEgoDoc/OpenRemit)** — 송금 + 내부 결제 게이트웨이 백엔드 (Kotlin / Spring Boot)
+- 송금·결제 흐름의 트랜잭션 정합성과 실패 시나리오 재처리를 중심으로 설계했습니다.
+- 결제(payment) · 지갑(wallet) · 원장(ledger) 서비스로 도메인을 분리해 구성했습니다.
+
+---
+
+### Contact
+
+![Email](https://img.shields.io/badge/juhan211@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white)
+<!-- 이력서/포트폴리오 링크는 준비되는 대로 이 위치에 추가 -->
 
 ---
 
