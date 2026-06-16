@@ -10,17 +10,28 @@
 
 ### Core Stack
 
+**Backend**
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+**학습 중 (Learning)**
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+
+**Infra & Data**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-<sub>Also use: TypeScript · JavaScript · NestJS · Node.js · MongoDB · InfluxDB · RabbitMQ · MQTT · gRPC</sub>
+---
+
+<sub>**Work** — 회사에서 NestJS · TypeScript · JavaScript · Node.js 기반 백엔드를 운영합니다.</sub>
+
+<sub>Also use: MongoDB · InfluxDB · RabbitMQ · MQTT · gRPC</sub>
 
 ---
 
