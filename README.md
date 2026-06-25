@@ -6,6 +6,12 @@
   대용량 실시간 시스템 경험을 바탕으로 결제·송금·정산 도메인으로 확장 중입니다.
 </p>
 
+<p align="center">
+  <a href="https://sepia-chipmunk-6f2.notion.site/3814d3ddac2480189eefde37181b991e">
+    <img src="https://img.shields.io/badge/%F0%9F%93%84%20%EA%B2%BD%EB%A0%A5%EA%B8%B0%EC%88%A0%EC%84%9C%20(Resume)-000000?style=for-the-badge&logo=notion&logoColor=white" alt="경력기술서 보기" />
+  </a>
+</p>
+
 ---
 
 ### Core Stack
@@ -53,6 +59,7 @@
 
 ### Contact
 
+[![경력기술서](https://img.shields.io/badge/%EA%B2%BD%EB%A0%A5%EA%B8%B0%EC%88%A0%EC%84%9C-000000?style=for-the-badge&logo=notion&logoColor=white)](https://sepia-chipmunk-6f2.notion.site/3814d3ddac2480189eefde37181b991e)
 ![Email](https://img.shields.io/badge/juhan211@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white)
 
 ---
